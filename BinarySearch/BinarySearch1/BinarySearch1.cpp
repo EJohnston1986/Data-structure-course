@@ -32,6 +32,7 @@
 
 #include <iostream>
 
+// function that implements a binary search on a sorted array
 int binSearch(int key, int array[], int sizeOfArray) {
     int low = 0;
     int high = 9;  
